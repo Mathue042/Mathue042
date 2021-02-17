@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Mathue042" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=puf17640&title_color=333&text_color=777" alt="Julian's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=puf17640&title_color=333&text_color=777" alt="Matheu stat" >
   </a>
 </p>
 
@@ -9,7 +9,7 @@
     <img src="https://svgur.com/i/TKs.svg" width="24px"/>
   </a>
   &emsp;
-  <a href= "https://instagram.com/pufler.dev">
+  <a href= "https://www.instagram.com/eternal_vanity/>
     <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
   </a>
   &emsp;
